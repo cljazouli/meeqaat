@@ -5,7 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>We need your location to provide prayer times.</string>
+	<string>We need your location to provide prayer times and Qiblah.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>This app needs your location to determine the Qibla direction.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>We need your location to provide prayer times.</string>
 	<key>CFBundleDisplayName</key>
