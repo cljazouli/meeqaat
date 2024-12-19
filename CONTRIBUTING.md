@@ -1,3 +1,4 @@
+![AppIcon@2x](https://github.com/user-attachments/assets/e1038bf3-3608-40d3-92e9-cef3ef941caa)
 # Contributing to Meeqaat
 
 Thank you for considering contributing to Meeqaat! Contributions of all kinds are welcome, including bug reports, feature suggestions, documentation improvements, and code contributions. Together, we can make this project more robust and useful for the community.
