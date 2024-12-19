@@ -1,3 +1,5 @@
+![AppIcon@2x](https://github.com/user-attachments/assets/e1038bf3-3608-40d3-92e9-cef3ef941caa)
+
 # Meeqaat  
 
 **بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ**  
@@ -52,7 +54,7 @@ To get Meeqaat running on your device, follow these simple steps:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/<your-username>/meeqaat.git  
+   git clone [https://github.com/<your-username>/meeqaat.git ](https://github.com/cljazouli/meeqaat.git) 
    ```  
 
 2. Navigate to the project directory:  

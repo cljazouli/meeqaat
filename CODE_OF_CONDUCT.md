@@ -1,3 +1,5 @@
+![AppIcon@2x](https://github.com/user-attachments/assets/e1038bf3-3608-40d3-92e9-cef3ef941caa)
+
 # Code of Conduct
 
 **In the Name of Allah, the Most Merciful, the Most Compassionate**  
